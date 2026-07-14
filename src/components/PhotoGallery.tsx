@@ -186,7 +186,7 @@ export default function PhotoGallery({ onNext }: PhotoGalleryProps) {
                           {card.caption}
                         </h3>
                         <p className="font-cute text-[10px] md:text-xs text-pink-700/60 mt-1 flex items-center justify-center gap-1">
-                          <RotateCw className="w-3.5 h-3.5" /> Click to read secret letter
+                          <RotateCw className="w-3.5 h-3.5" /> 
                         </p>
                       </div>
                     </div>
